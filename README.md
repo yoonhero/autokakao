@@ -4,6 +4,13 @@ Kakaotalk open chatting room and send message automatically with applescript.
 
 ![result](./docs/result.gif)
 
+## Installation
+
+```bash
+pip install autokakao
+```
+
+
 ## API
 
 First import package.
@@ -46,12 +53,6 @@ kakao.open_chatroom("윤서준")
 
 for i in range(1000):
     kakao.write_message("윤서준 바보")
-```
-
-## Installation
-
-```bash
-pip install autokakao
 ```
 
 ## License 
