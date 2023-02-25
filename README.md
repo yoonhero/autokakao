@@ -1,5 +1,7 @@
 # Automation Kakao for Mac
 
+[![Downloads](https://static.pepy.tech/badge/autokakao)](https://pepy.tech/project/autokakao)
+
 Kakaotalk open chatting room and send message automatically with applescript.
 
 ![result](./docs/result.gif)
